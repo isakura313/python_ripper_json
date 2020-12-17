@@ -1,1 +1,69 @@
-[{"id": 0, "img": "https://cdn1.ozone.ru/s3/multimedia-6/c250/6001878846.jpg", "price": 601, "discount": true, "old_price": 752, "title": "Жизнь животных. Виммельбух.", "rating": "4.705130100250244"}, {"id": 1, "img": "https://cdn1.ozone.ru/s3/multimedia-e/c250/6010185746.jpg", "price": 1174, "discount": true, "old_price": 1576, "title": "Гравити Фолз. Дневник 3 | Хирш Алекс, Ренцетти Роб", "rating": "4.915226936340332"}, {"id": 2, "img": "https://cdn1.ozone.ru/s3/multimedia-z/c250/6009559295.jpg", "price": 545, "discount": true, "old_price": 615, "title": "Всё о Муми-троллях. Книга 1 | Янссон Туве Марика", "rating": "4.863979816436768"}, {"id": 3, "img": "https://cdn1.ozone.ru/s3/multimedia-y/c250/6011298778.jpg", "price": 210, "discount": true, "old_price": 274, "title": "Денискины рассказы | Драгунский Виктор", "rating": "4.855754852294922"}]
+[
+    {
+        "id": 0,
+        "img": "https://cdn1.ozone.ru/s3/multimedia-w/c250/6029693732.jpg",
+        "price": 119990,
+        "discount": false,
+        "title": "Смартфон Apple iPhone 12 Pro Max 6/256GB, тихоокеанский синий",
+        "rating": "4.25"
+    },
+    {
+        "id": 1,
+        "img": "https://cdn1.ozone.ru/s3/multimedia-r/c250/6026035335.jpg",
+        "price": 59990,
+        "discount": false,
+        "title": "Смартфон Apple iPhone 11 128GB, фиолетовый",
+        "rating": "4.866379261016846"
+    },
+    {
+        "id": 2,
+        "img": "https://cdn1.ozone.ru/s3/multimedia-r/c250/6026035335.jpg",
+        "price": 59990,
+        "discount": false,
+        "title": "Смартфон Apple iPhone 11 128GB, фиолетовый",
+        "rating": "4.866379261016846"
+    },
+    {
+        "id": 3,
+        "img": "https://cdn1.ozone.ru/s3/multimedia-3/c250/6022292715.jpg",
+        "price": 23990,
+        "discount": true,
+        "old_price": 24980,
+        "title": "Смартфон Apple iPhone 7 \"Как новый\" 128GB, черный",
+        "rating": "4.850874900817871"
+    },
+    {
+        "id": 4,
+        "img": "https://cdn1.ozone.ru/s3/multimedia-w/c250/6026035376.jpg",
+        "price": 49893,
+        "discount": true,
+        "old_price": 52980,
+        "title": "Смартфон Apple iPhone XR 128GB, белый",
+        "rating": "4.888311862945557"
+    },
+    {
+        "id": 5,
+        "img": "https://cdn1.ozone.ru/s3/multimedia-1/c250/6022292713.jpg",
+        "price": 22980,
+        "discount": false,
+        "title": "Смартфон Apple iPhone 7 \"Как новый\" 32GB, черный",
+        "rating": "4.850874900817871"
+    },
+    {
+        "id": 6,
+        "img": "https://cdn1.ozone.ru/s3/multimedia-6/c250/6025925334.jpg",
+        "price": 45401,
+        "discount": true,
+        "old_price": 47980,
+        "title": "Смартфон Apple iPhone XR 3/64GB, красный",
+        "rating": "4.888311862945557"
+    },
+    {
+        "id": 7,
+        "img": "https://cdn1.ozone.ru/s3/multimedia-n/c250/6029693723.jpg",
+        "price": 119990,
+        "discount": false,
+        "title": "Смартфон Apple iPhone 12 Pro Max 6/256GB, графитовый",
+        "rating": "4.25"
+    }
+]
